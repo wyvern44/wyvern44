@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+This is my GitHub profile. Expect to see nothing as I use it solely to store tutorials and unfinished things.
 
 <!--
 **wyvern44/wyvern44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
