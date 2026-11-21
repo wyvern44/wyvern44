@@ -1,4 +1,4 @@
-## Hello!
+## Hello! I'm Tyler.
 
 This is my GitHub profile. Expect to see nothing as I use it solely to store tutorials and unfinished things.
 
